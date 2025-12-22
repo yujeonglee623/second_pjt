@@ -6,7 +6,7 @@
 주제: 재무제표 데이터를 활용한 기업리스크 스코어링 시스템
 ```
 ## 프로젝트 개요
-![title](pic\title.jpg)
+![Image](https://github.com/user-attachments/assets/268f5ab5-6867-4ba6-8867-90b975b2fb6c)
 ## 프로젝트 일정
 ![wbs](pic\wbs.jpg)
 
