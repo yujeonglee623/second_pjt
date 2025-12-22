@@ -98,8 +98,8 @@
 
 ## 서비스 소개
 ### UI 디자인
-![Image](https://github.com/user-attachments/assets/6457b48c-264b-4d2c-bd73-9b29d5c83101)
-![Image](https://github.com/user-attachments/assets/55293291-9b99-485a-8db4-ed39bf7b86ff)
+![Image](https://github.com/user-attachments/assets/6457b48c-264b-4d2c-bd73-9b29d5c83101)  
+![Image](https://github.com/user-attachments/assets/55293291-9b99-485a-8db4-ed39bf7b86ff)  
 ![Image](https://github.com/user-attachments/assets/f3b2ab2d-b66d-4bf3-8438-66aa1707e87a)
 
 ### Streamlit 서비스
